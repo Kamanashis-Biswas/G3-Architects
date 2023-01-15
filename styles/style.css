@@ -403,6 +403,10 @@ input {
         gap: 10px;
     }
 
+    .nav-title{
+        font-size: 40px;
+    }
+
     .banner-info {
         width: 80%;
         margin: 0 auto;
@@ -413,7 +417,7 @@ input {
     }
 
     .banner-btn {
-        margin-left: 43px;
+        margin-left: 20px;
     }
 
     .banner-image img{
